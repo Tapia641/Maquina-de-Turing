@@ -1,0 +1,6 @@
+#SUMA UNARIA
+#Tabla de Transiciones
+q0,q0,1,1,D
+q0,q0,+,1,D
+q0,q1,_,_,I
+q1,q2,1,+,D

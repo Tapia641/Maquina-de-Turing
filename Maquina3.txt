@@ -1,0 +1,11 @@
+#RESTA DE NUMEROS UNARIOS
+#Tabla de Transiciones
+q0,q0,1,1,D
+q0,q0,-,-,D
+q0,q1,_,_,I
+q1,q2,1,_,I
+q1,q4,-,_,D
+q2,q2,1,1,I
+q2,q2,-,-,I
+q2,q3,_,_,D
+q3,q0,1,_,D

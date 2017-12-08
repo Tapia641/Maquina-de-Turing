@@ -1,0 +1,5 @@
+#OBTIENE EL COMPLEMENTO A 1 DE UNA CADENA BINARIA
+#Tabla de Transiciones
+q0,q0,0,1,D
+q0,q0,1,0,D
+q0,q1,_,_,D
