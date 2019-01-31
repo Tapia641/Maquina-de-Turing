@@ -91,7 +91,7 @@ def Computa(Estado_Actual, Tabla, Cadena, Posicion):
 
 
 def main():
-	#ARBIMOD EL ERCHIVO:
+	#ARBIMOS EL ERCHIVO:
 	nombre = str(input("Ingresa el nombre del archivo:"))
 	Archivo = open(nombre, 'r')
 	Contador  = 0
